@@ -15,7 +15,7 @@
 3. 2.38 GHz
 4. SISTEMA OPERATIVO DE 64 bits
 
-##Versiones de programa
+## Versiones de programa
 - Python 3.10
 - Anaconda 2.1
 
