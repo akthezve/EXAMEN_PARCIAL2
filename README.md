@@ -27,4 +27,4 @@
 - matplotlib 3.5.1
 - seaborn 0.11.2
 
-![rcomplement](img/Funcion mining_pubs.png)
+![rcomplement](img/Funcion_mining_pubs.png)
