@@ -16,9 +16,13 @@
 4. SISTEMA OPERATIVO DE 64 bits
 
 ## Versiones de programa
-- Python 3.10
-- Anaconda 2.1
-
-- miningscience es un módulo en el que están las fórmulas
-- pubmed_result resultados de pubmed
-- zipcodes_coordinates son coordenadas
+- Python 3.10 (64 bit)
+- Anaconda Navigator 2.2.0
+- Jupyter Notebook 6.4.8
+- Biopython 1.79
+- csv 1.0
+- re 2.2.1
+- pandas 1.4.2
+- numpy 1.21.5
+- matplotlib 3.5.1
+- seaborn 0.11.2
