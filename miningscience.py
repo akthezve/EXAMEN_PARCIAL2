@@ -26,7 +26,7 @@ def download_pubmed(keyword):
     handle.close()
     out_handle.write(data)
     out_handle.close()
-    return
+    return(id_list)
 
 def map_science(tipo):
     """Docstring crea un gráfico de acuerdo a las cinco ciudades elegida de la base de datos anteriormente creada
