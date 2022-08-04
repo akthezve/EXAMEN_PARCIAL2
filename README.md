@@ -18,3 +18,7 @@
 ##Versiones de programa
 - Python 3.10
 - Anaconda 2.1
+
+- miningscience es un módulo en el que están las fórmulas
+- pubmed_result resultados de pubmed
+- zipcodes_coordinates son coordenadas
